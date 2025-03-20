@@ -7,6 +7,8 @@ namespace CSharp_1
 {
 	class Program
 	{
+
+        //asdasdasdasd
         enum ClassType
         {
             None = 0,
