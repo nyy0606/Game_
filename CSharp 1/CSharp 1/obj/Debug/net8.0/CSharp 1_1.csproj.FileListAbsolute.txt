@@ -1,0 +1,15 @@
+C:\나용윤 C#\CSharp 1\CSharp 1\bin\Debug\net8.0\CSharp 1_1.exe
+C:\나용윤 C#\CSharp 1\CSharp 1\bin\Debug\net8.0\CSharp 1_1.deps.json
+C:\나용윤 C#\CSharp 1\CSharp 1\bin\Debug\net8.0\CSharp 1_1.runtimeconfig.json
+C:\나용윤 C#\CSharp 1\CSharp 1\bin\Debug\net8.0\CSharp 1_1.dll
+C:\나용윤 C#\CSharp 1\CSharp 1\bin\Debug\net8.0\CSharp 1_1.pdb
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.AssemblyInfoInputs.cache
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.AssemblyInfo.cs
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.csproj.CoreCompileInputs.cache
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.sourcelink.json
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.dll
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\refint\CSharp 1_1.dll
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.pdb
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\CSharp 1_1.genruntimeconfig.cache
+C:\나용윤 C#\CSharp 1\CSharp 1\obj\Debug\net8.0\ref\CSharp 1_1.dll
